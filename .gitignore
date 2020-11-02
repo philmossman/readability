@@ -54,4 +54,4 @@ dkms.conf
 
 # Visual Studio Code Files
 .vscode
-*.code-workspace
+.code-workspace
